@@ -1,0 +1,6 @@
+/*record_icon*/
+.notion-record-icon {
+	opacity: 0.5 !important;
+	zoom: 0.6 !important;
+	padding-top: 0.25rem !important
+}
