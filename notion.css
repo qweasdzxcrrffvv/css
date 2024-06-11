@@ -1,1 +1,8 @@
-h1{color:#BE616B;font-size:bold;}
+
+    body {
+        background: #eee !important;
+    }
+    h1 {
+        color: #BE616B !important;
+        font-size: bold !important;
+    }
